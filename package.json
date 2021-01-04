@@ -1,0 +1,20 @@
+{
+  "name": "udemy-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "assignment-01": "parcel assignment-01/index.html",
+    "assignment-02": "parcel assignment-02/index.html",
+    "assignment-03": "parcel assignment-03/index.html",
+    "assignment-04": "parcel assignment-04/index.html",
+    "assignment-05": "parcel assignment-05/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}

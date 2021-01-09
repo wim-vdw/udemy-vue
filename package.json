@@ -11,10 +11,14 @@
     "assignment-04": "parcel assignment-04/index.html",
     "assignment-05": "parcel assignment-05/index.html"
   },
+  "prettier": {
+    "singleQuote": true
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.2.1"
   }
 }

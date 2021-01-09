@@ -1,0 +1,24 @@
+# Vue - The Complete Guide (w/ Router, Vuex, Composition API)
+## Sections
+ - Section 1: Getting Started
+ - Section 2: Basics & Core Concepts - DOM Interaction with Vue
+ - Section 3: Rendering Conditional Content & Lists
+ - Section 4: Course Project: The Monster Slayer Game
+ - Section 5: Vue: Behind the Scenes
+ - Section 6: Introducing Components
+ - Section 7: Moving to a Better Development Setup & Workflow with the Vue CLI
+ - Section 8: Component Communication
+ - Section 9: Diving Deeper Into Components
+ - Section 10: Course Project: The Learning Resources App
+ - Section 11: Forms
+ - Section 12: Sending Http Requests
+ - Section 13: Routing: Building "Multi-Page" Single Page Applications
+ - Section 14: Animations & Transitions
+ - Section 15: Vuex
+ - Section 16: Main Project: "Find a Coach" Web App
+ - Section 17: Vue & Authentication
+ - Section 18: Optimizing & Deploying Vue Apps
+ - Section 19: The Composition API - Replacing the Options API
+ - Section 20: Reusing Functionality: Mixins & Custom Composition Functions
+ - Section 21: Roundup & Next Steps
+ - Section 22: Vue 2 to Vue 3 Migration
